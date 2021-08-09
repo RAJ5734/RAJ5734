@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raj kuamar Yadav
+- 👋 Hi, I’m Raj kumar Yadav
 - 👀 I’am interested in learn android development learn daily something new.
 - 🌱 I’m currently learning andriod development as well as iso development
 - 💞️ I’m looking i am looking for opportunities work as android developer or job
